@@ -1,0 +1,2 @@
+# Computational_Astronomy_Finding_Jet_Residual_of_COMETRY_COMET
+(Computational_Astronomy_Lab_Assignment)_FITTING THE UNIFORM COMET COMA AND CHECK THE RESIDUAL AFTER SUBTRACTING IT
